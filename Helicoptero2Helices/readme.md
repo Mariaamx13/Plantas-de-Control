@@ -1,12 +1,6 @@
 # Helicóptero Aterrizdo: Identificación y Control MIMO de Dos Grados de Libertad
 
 Identificación experimental y diseño de reguladores para un helicóptero aterrizdo con acoplamiento entre ejes pitch y yaw.
-
-**Autores:** María Fernanda Alvarado Moraga, Jose Pablo Nuñez García, Ana Victoria Rojas Lazo  
-**Profesor:** Eduardo Interiano Salguero  
-**Institución:** Instituto Tecnológico de Costa Rica (ITCR), Laboratorio de Control Automático (EL-5409)  
-**Fecha:** Junio 2026
-
 ## Descripción del Proyecto
 
 El Heli2DoF es una planta MIMO (Multi-Input Multi-Output) que consiste en un helicóptero aterrizdo con dos grados de libertad mecánicamente acoplados: **Pitch** (eje longitudinal) y **Yaw** (eje vertical), controlados independientemente mediante motores de corriente directa. Este sistema representa los desafíos prácticos del control multivariable en presencia de acoplamiento cruzado dinámico.
